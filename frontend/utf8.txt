@@ -1,0 +1,4 @@
+﻿src/components/FeaturedTools.tsx(70,27): error TS2322: Type 'unknown' is not assignable to type 'Key'.
+src/components/ThemeToggle.tsx(4,26): error TS2307: Cannot find module '@/context/ThemeContext' or its corresponding type declarations.
+src/components/TrendingTools.tsx(58,61): error TS2322: Type '{ key: any; tool: any; index: number; }' is not assignable to type 'IntrinsicAttributes & { tool: any; }'.
+  Property 'index' does not exist on type 'IntrinsicAttributes & { tool: any; }'.
